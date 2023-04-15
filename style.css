@@ -6,6 +6,11 @@
     border: none;
     list-style: none;
 }
+main {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
 
 span {
     font-weight: 900;
@@ -106,6 +111,12 @@ span {
 
 }
 
+.homework-3 {
+    width: 600px;
+    height: 220px;
+    margin: 0 auto;
+}
+
 .element {
     position: relative;
     height: 100px;
@@ -154,6 +165,8 @@ span {
 
 div.homework-5 {
     height: 400px;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .timing-function {
